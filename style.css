@@ -490,8 +490,8 @@ h2.sub-title {
 }
 
 .logos-container img {
-    width: 80px; /* Adjust the width of the logos as needed */
-    height: 80px; /* Adjust the height to maintain the aspect ratio */
+    width: 60px; /* Adjust the width of the logos as needed */
+    height: 60px; /* Adjust the height to maintain the aspect ratio */
     margin-right: 20px; /* Add space between logos by adjusting the margin */
     margin-bottom: 10px; /* Add space below the logos */
     background-color: #000; /* Set the background color to match your website's background */
